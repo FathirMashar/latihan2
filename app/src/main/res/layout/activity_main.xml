@@ -9,7 +9,7 @@
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_centerInParent="true"
-        android:text="Latihan"
+        android:text="Makan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
