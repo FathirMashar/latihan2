@@ -1,2 +1,2 @@
 # latihan2
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of chilledcow](https://github.com/FathirMashar/latihan2/blob/master/gambar.jpg)
