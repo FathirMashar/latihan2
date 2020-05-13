@@ -1,2 +1,2 @@
 # latihan2
-![](https://github.com/FathirMashar/latihan2/blob/master/gambar.jpg =200x)
+<img src="https://github.com/FathirMashar/latihan2/blob/master/gambar.jpg" />
