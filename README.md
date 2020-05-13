@@ -1,2 +1,2 @@
 # latihan2
-# <h1>Latihan</h1>
+<h1>Latihan</h1>
